@@ -1,5 +1,6 @@
 # 🧵 Fashion-MNIST Classification with PyTorch  
-Dataset:-import kagglehub
+Dataset:-
+import kagglehub
 
 # Download latest version
 path = kagglehub.dataset_download("zalando-research/fashionmnist")
