@@ -1,4 +1,10 @@
 # 🧵 Fashion-MNIST Classification with PyTorch  
+Dataset:-import kagglehub
+
+# Download latest version
+path = kagglehub.dataset_download("zalando-research/fashionmnist")
+
+print("Path to dataset files:", path)
 
 ## 📌 Overview  
 This project implements a deep learning model to classify images from the **Fashion-MNIST dataset** using **PyTorch**.  
